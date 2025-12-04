@@ -15,7 +15,7 @@ const Header = () => {
       <div className="flex-shrink-0">
         <a href="#">
           <picture>
-            <img src="/images/logo.svg" alt="logo" />
+            <img src="images/logo.svg" alt="logo" />
           </picture>
         </a>
       </div>
